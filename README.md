@@ -19,8 +19,6 @@ A sleek and responsive To-Do List web app with three customizable themes: **Ligh
 
 ## 📷 Preview
 
-![Just Do It Preview](preview.png) <!-- Replace with actual image path -->
-
 ## 🚀 Getting Started
 
 .
@@ -30,5 +28,10 @@ A sleek and responsive To-Do List web app with three customizable themes: **Ligh
 │   │   └── script.js
 │   └── scss/
 │       └── style.scss
+
+
+![teal](https://github.com/user-attachments/assets/a746f3c7-c418-436b-83bc-49d845f2183d)
+![light](https://github.com/user-attachments/assets/4288350f-1bed-42d0-80bf-2e35d1e6597d)
+![dark](https://github.com/user-attachments/assets/d1bde5a0-e0cb-473d-bff6-7041d088cfd8)
 
 
