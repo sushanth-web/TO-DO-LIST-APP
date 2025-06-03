@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>TO DO LIST</title>
+  <link rel="stylesheet" href="./app/scss/style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body class="dark">
+  <header class="container">
+    <fieldset role="radiogroup" class="radiogroup">
+      <div class="radios">
+        <input class="radio" type="radio" id="teal">
+        <input class="radio" type="radio" id="light">
+        <input class="radio" type="radio" id="dark">
+        <span class="first"></span>
+        <span class="second"></span>
+        <span class="third"></span>
+      </div>
+    </fieldset>
+  </header>
+
+  <main>
+    <h1 class="heading">Just Do it.</h1>
+    <div class="textfield">
+      <input type="text" class="text" placeholder="Add a task.">
+      <button class="igot">I Got This!</button>
+    </div>
+    <div class="date" id="datetime"></div>
+    <ul class="ul-el"></ul>
+  </main>
+
+  <script src="./app/js/script.js" defer></script>
+</body>
+</html>
