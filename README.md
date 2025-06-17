@@ -4,7 +4,6 @@ A sleek and responsive To-Do List web app with three customizable themes: **Ligh
 ---
 <h1>🌐 Live Website</h1>
 https://to-do-list-app-eight-gilt.vercel.app/
----
 
 ## 🌟 Features
 
